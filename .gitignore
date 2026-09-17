@@ -1,7 +1,12 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
 .venv/
 venv/
 .vscode/
 .idea/
 .DS_Store
+
+# local-only docs (kept on disk, not pushed to GitHub)
+TEMPLATE.md
+PROBLEMS.md
+
